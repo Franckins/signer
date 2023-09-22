@@ -52,7 +52,7 @@
     ]
   },
   "dependencies": {
-    "@types/ramda": "^0.27.32",
+    "@types/ramda": "^0.29.3",
     "@waves/client-logs": "^1.0.0",
     "@waves/node-api-js": "^1.2.4",
     "@waves/ts-lib-crypto": "^1.4.3",
