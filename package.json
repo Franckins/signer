@@ -56,7 +56,7 @@
     "@waves/client-logs": "^1.0.0",
     "@waves/node-api-js": "^1.2.4",
     "@waves/ts-lib-crypto": "^1.4.3",
-    "@waves/ts-types": "^1.0.0",
+    "@waves/ts-types": "^1.1.0",
     "ramda": "^0.27.1"
   },
   "devDependencies": {
